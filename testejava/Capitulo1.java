@@ -28,8 +28,8 @@ public class Capitulo1 {
     }
     
     public void mostrar(){
-        System.out.println("Escolha 1: ");
-        System.out.println("Quando Emily abriu a porta, so o suficiente para olhar o comodo, não tinha nada que pudesse ter causado o barulho. Então ela fechou a porta e desceu as escadas rumo a sala. Quando Emily chega na sala, ela percebe que seu livro sumiu. \n \'Que estranho eu me lembro de ter deixado meu livro aqui. /'  ");
+        if (){
+        System.out.println("Quando Emily abriu a porta, so o suficiente para olhar o comodo, não tinha nada que pudesse ter causado o barulho. Então ela fechou a porta e desceu as escadas rumo a sala. Quando Emily chega na sala, ela percebe que seu livro sumiu. \n \'Que estranho eu me lembro de ter deixado meu livro aqui. \'  "); }
     }
     
     
