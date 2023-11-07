@@ -28,8 +28,9 @@ public class Capitulo1 {
     }
     
     public void mostrar(){
-        if (){
-        System.out.println("Quando Emily abriu a porta, so o suficiente para olhar o comodo, não tinha nada que pudesse ter causado o barulho. Então ela fechou a porta e desceu as escadas rumo a sala. Quando Emily chega na sala, ela percebe que seu livro sumiu. \n \'Que estranho eu me lembro de ter deixado meu livro aqui. \'  "); }
+        if (escolha1 == 1){
+        Historia.printLinha("Quando Emily abriu a porta, so o suficiente para olhar o comodo, não tinha nada que pudesse ter causado o barulho. Então ela fechou a porta e desceu as escadas rumo a sala. Quando Emily chega na sala, ela percebe que");   
+        System.out.println("Quando Emily abriu a porta, so o suficiente para olhar o comodo, não tinha nada que pudesse ter causado o barulho. Então ela fechou a porta e desceu as escadas rumo a sala. Quando Emily chega na sala, ela percebe que seu livro sumiu. \n \'Que estranho eu me lembro de ter deixado meu livro aqui. \' \nUm barulho de panela caindo vem da cozinha, Emily se vira em direção a cozinha procurando o motivo do barulho, ela caminha em direção a mesma e quando chega na cozinha ve a panela de pressão jogada no chão, mas não tinha nenhum indicio que alguem esteve ali, as portas e janelas estavam fechadas por causa da chuva. Emily pegou a panela jogada   "); }
     }
     
     
