@@ -20,11 +20,11 @@ public class Capitulo1 {
 
 
     public Capitulo1(String nome, String texto, String escolha1, String escolha2, int energia) {
-        this.nome = nome;
-        this.texto = texto;
-        this.escolha1 = escolha1;
+        this.nome = nome; // Vai receber o titulo do capitulo da historia
+        this.texto = texto; // vai receber o texto da historia 
+        this.escolha1 = escolha1; 
         this.escolha2 = escolha2;
-        this.energia = energia;
+        this.energia = energia; // vai receber a energia total do personagem de acordo com o capitulo
     }
     
     public void mostrar(){
