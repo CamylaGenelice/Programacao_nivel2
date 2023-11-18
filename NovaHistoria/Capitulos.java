@@ -33,7 +33,7 @@ public void mostrar(){
     System.out.println(escolhas[1]);
     System.out.println("Sua vida" + alteracaoEnergia);}
 
-public int comparador() {
+public static int comparador() {
     int res = 0;
     while (res != 1 && res !=2) {
         System.out.println("Escolha qual caminho voce quer seguir | 1 ou 2 |: ");

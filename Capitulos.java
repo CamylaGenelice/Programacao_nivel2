@@ -33,7 +33,7 @@ public int comparador() {
         res = ler.nextInt();
     }
     if (res == 0) {
-    
+        System.out.println("Não entendi o que você digitou");
     }
     return res;
     }
