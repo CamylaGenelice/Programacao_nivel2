@@ -1,3 +1,4 @@
+package Codigo;
 import java.util.Scanner;
 import java.util.Arrays;
 public class Capitulos {

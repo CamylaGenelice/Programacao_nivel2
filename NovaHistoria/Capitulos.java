@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+import Codigo.Personagem;
+
 public class Capitulos {
     // Atributos
     private String nome; // Nome do capitulo

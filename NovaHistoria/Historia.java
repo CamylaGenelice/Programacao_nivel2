@@ -1,4 +1,8 @@
 import java.util.Scanner;
+
+import Codigo.Capitulos;
+import Codigo.Historia;
+import Codigo.Personagem;
 public class Historia {
     public void Linhas(){
         int tamanho = 130;

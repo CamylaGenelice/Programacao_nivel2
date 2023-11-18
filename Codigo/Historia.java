@@ -1,5 +1,10 @@
+package Codigo;
 import java.util.Arrays;
 import java.util.Scanner;
+
+import Capitulos;
+import Historia;
+import Personagem;
 public class Historia {
     
     // Funções do codigo

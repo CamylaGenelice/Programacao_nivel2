@@ -1,3 +1,4 @@
+package Codigo;
 import java.util.Scanner;
 public class Personagem {
     Scanner entradScanner = new Scanner(System.in);
